@@ -46,4 +46,8 @@ img {
     text-align: center;
 }
 
+
+.background {
+     background-image: linear-gradient(to bottom right, black, #FFD700);
+}
 /* */
